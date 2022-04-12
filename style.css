@@ -1,0 +1,19 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: black;
+    background: rgb(234, 176, 0);
+    margin: 8px;
+
+}
+
+
+h1   {
+    font-size: 19px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid black;
+}
+.shaded{
+    background: #d0d0ff;
+}
